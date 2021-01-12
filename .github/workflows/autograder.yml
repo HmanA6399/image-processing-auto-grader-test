@@ -8,7 +8,7 @@ jobs:
   autograder_test:
     runs-on: ubuntu-20.04
     env:
-      SUBMISSION_DOWNLOAD_LINK: "https://drive.google.com/file/d/1bNXIsxCxdPN7wdHKFqsIuGlHO2mtjicJ/view?usp=sharing"
+      SUBMISSION_DOWNLOAD_LINK: "https://drive.google.com/file/d/1ktvfUQo7v1xpdbHam9t1TDPSUhywadUp/view?usp=sharing"
     
     steps:
     - name: Set up Python 3.6
